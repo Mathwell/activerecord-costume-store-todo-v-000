@@ -46,8 +46,3 @@ class CreateHauntedHouses < ActiveRecord::Migration
     end
   end
 end
-
-
-
-
-
