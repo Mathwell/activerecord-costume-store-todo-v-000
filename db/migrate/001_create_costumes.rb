@@ -16,6 +16,5 @@ class CreateCostumes < ActiveRecord::Migration[4.2]
       t.string  :image_url
       t.timestamps
     end
-    add_index :publications, :publication_type_id
   end
 end
